@@ -1,4 +1,5 @@
-baseurl = "http://www.example.com/"
+# options(blogdown.generator.server = FALSE)
+baseurl = "https://sylvainschmitt.netlify.com/"
 title = "Sylvain Schmitt"
 copyright = "&copy; 2017 Sylvain Schmitt"
 theme = "hugo-academic"
@@ -12,7 +13,7 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-108460413-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
