@@ -10,8 +10,8 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Tropical ecology",
-    "Intraspecific variability",
+    "Tropical forest ecology",
+    "Intraspecific genetic and phenotypic variability",
     "Tropical tree evolution"
   ]
 
@@ -25,6 +25,11 @@ weight = 5
   course = "MSc in tropical ecology"
   institution = "AgroParisTech - Montpellier University"
   year = 2017
+  
+[[education.courses]]
+  course = "Ingeneer in natural land management"
+  institution = "AgroParisTech - Nancy"
+  year = "2014-2015"
  
 +++
 
