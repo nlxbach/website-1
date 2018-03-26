@@ -35,4 +35,4 @@ weight = 5
 
 # About
 
-I am a PhD student in evolution and ecology working on tropical trees.
+I am a PhD student in evolution and ecology working on tropical trees. More especially, the main objective of my PhD thesis is to further explore the genotype-environment interactions in shaping the intraspecific trait variability of tropical tree species, and  derive its impact on the origin and maintenance of biodiversity. My curriculum vitae is available [online](files/cv_EN2.pdf).
